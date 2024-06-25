@@ -18,7 +18,7 @@ Dieses Projekt implementiert ein IoT-Warnsystem, das Bewegungen erkennt, Entfern
 - Adafruit AirLift FeatherWing – ESP32 WiFi Co-Processor
 - Grove Shield
 - Grove Ultrasonic Ranger v2.0
-- Grove PIR Motion Sensor v1.0
+- Adjustable PIR Motion Sensor v1.0
 - Grove Chainable RGB LED v2.0
 - Grove Buzzer v1.2
 - ThingSpeak Account und API-Schlüssel
